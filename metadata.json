@@ -1,0 +1,5 @@
+{
+  "name": "Lumière de Noël",
+  "description": "A cinematic, interactive 3D Christmas tree experience with photo memories, built with Three.js and React.",
+  "requestFramePermissions": []
+}
